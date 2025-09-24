@@ -1,2 +1,2 @@
-# ospf-tshoot_area-descontigua
+# OSPF TSHOOT ÁREA DESCONTINUA
 OSPF Área descontígua 0
